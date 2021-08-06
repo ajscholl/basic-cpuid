@@ -44,6 +44,7 @@ import Prelude
 import Foreign
 #else
 import Data.Word
+import Data.Bits
 #endif
 
 -- * CPUID support
